@@ -85,9 +85,9 @@ img {
     width: 40px;
     height: 28px;
 }
-/* .burger__line {
+.burger__line {
     
-} */
+}
 .header_active {
     background: #0E1D28;
 }
